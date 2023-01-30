@@ -1119,4 +1119,11 @@
 		"Height": 7.75,
 		"Image": "voodoo-small.png"
 	}
+	{
+		"Brand": "Xsonic",
+		"Name": "Airstep",
+		"Width": 11.8,
+		"Height": 2.75,
+		"Image": "airstep.png"
+	}
 ]
